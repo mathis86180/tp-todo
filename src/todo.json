@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Send a mail",
+        "isDone": false
+    },
+    {
+        "title": "Finish TPs",
+        "isDone": false
+    },
+    {
+        "title": "Go to car wash",
+        "isDone": false
+    },
+    {
+        "title": "Go to market",
+        "isDone": false
+    }
+]
